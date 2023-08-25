@@ -1,4 +1,4 @@
-Olá! Eu sou o Ícaro Ribeiro
+#Olá! Eu sou o Ícaro Ribeiro
 
 - 🧠 Atualmente trabalho com o Desenvolvimento Front-End de sites e sistemas.
 - 📚 Graduando em Engenharia de Software pela Universidade Estácio de Sá.
