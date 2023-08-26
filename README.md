@@ -2,7 +2,7 @@
 
 - 🧠 Atualmente trabalho com o Desenvolvimento Front-End de sites e sistemas.
 - 📚 Graduando em Engenharia de Software pela Universidade Estácio de Sá.
-- 🖥️ Constantemente em busca de novos conhecimentos, principalemnte em plataformas como a Udemy, DIO e DevMedia.
+- 🖥️ Constantemente em busca de novos conhecimentos, principalmente em plataformas como a Udemy, DIO e DevMedia.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
