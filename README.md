@@ -1,6 +1,6 @@
 # Olá! Eu sou o Ícaro Ribeiro
 
-- 🧠 Desenvolvedor Web Front-End | Automações de Processos | JavaScript | HTML5 | CSS3 | Python.
+- 🧠 Desenvolvedor Web | Automações de Processos | JavaScript | HTML5 | CSS3 | Python.
 - 📚 Formado em Engenharia de Software pela Universidade Estácio de Sá.
 - 🖥️ Constantemente em busca de novos conhecimentos, foco na evolução constante.
 
