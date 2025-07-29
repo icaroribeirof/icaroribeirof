@@ -1,6 +1,6 @@
 # Olá! Eu sou o Ícaro Ribeiro
 
-- 🧠 Desenvolvedor Web | Automações de Processos | JavaScript | HTML5 | CSS3 | Python.
+- 🧠 Desenvolvedor Web | Automações de Processos | JavaScript | HTML5 | CSS3 | Python | PHP | MySQL
 - 📚 Formado em Engenharia de Software pela Universidade Estácio de Sá.
 - 🖥️ Constantemente em busca de novos conhecimentos, foco na evolução constante.
 
@@ -10,6 +10,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
 
 ##
