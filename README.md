@@ -16,10 +16,10 @@
 
 ##
 
-<div>
+/*<div>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=icaroribeirof&show_icons=true&theme=dark" />
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroribeirof&layout=compact&theme=dark" />
-</div>
+</div>*/
 
 ##
 
