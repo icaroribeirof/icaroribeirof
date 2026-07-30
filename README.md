@@ -3,7 +3,7 @@
 - 🧠 Desenvolvedor Web | Automações de Processos | JavaScript | HTML5 | CSS3 | Python | PHP | MySQL
 - 📚 Formado em Engenharia de Software pela Universidade Estácio de Sá.
 - 🖥️ Constantemente em busca de novos conhecimentos, foco na evolução constante.
-- Visite o meu website em: https://icaroribeirof.github.io/icaroribeirodev
+- Visite o meu website em: https://icaroribeirodev.freedev.app
 
 <p align="left"><br>
   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
