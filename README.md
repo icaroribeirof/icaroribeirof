@@ -1,6 +1,6 @@
 # Olá! Eu sou o Ícaro Ribeiro
 
-- 🧠 Desenvolvedor Web | Automações de Processos | JavaScript | HTML5 | CSS3 | Python | PHP | MySQL
+- 🧠 Desenvolvedor Web | Automações de Processos | JavaScript | React | Next.js | Typescript | Python | SQL | HTML5 | CSS3 | PHP
 - 📚 Formado em Engenharia de Software pela Universidade Estácio de Sá.
 - 🖥️ Constantemente em busca de novos conhecimentos, foco na evolução constante.
 - Visite o meu website em: https://icaroribeirodev.freedev.app
